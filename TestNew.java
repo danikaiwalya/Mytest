@@ -36,5 +36,6 @@ class TestNew {
 	public static void main(String a[]) {
 		A obj = new A(2,"sra");
 		obj.show();
+		System.out.println("Finished");
 	}
 }
